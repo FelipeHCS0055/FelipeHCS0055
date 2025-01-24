@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 # 🖖 Welcome to my profile! <img align="right" src="https://komarev.com/ghpvc/?username=FelipeHCS0055&color=orange">
 
 <br>
+<br>
+<br>
 
 <img src="media/2023-december-trail-run.png" width="350px" align="right">
 
