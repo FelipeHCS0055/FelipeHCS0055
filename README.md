@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 # 🖖 Welcome to my profile! <img align="right" src="https://komarev.com/ghpvc/?username=FelipeHCS0055&color=orange">
 
 <br>
-<br>
-<br>
 
 <img src="media/2023-december-trail-run.png" width="350px" align="right">
 
@@ -29,6 +27,8 @@ Hi! I’m Felipe Silva, a 20-year-old Electrical Engineering student at USP. Whe
 
 I’m also a productivity enthusiast and an avid user of Obsidian, always exploring new ways to organize knowledge and enhance creativity.
 
+<br>
+<br>
 <br>
 <br>
 <br>
