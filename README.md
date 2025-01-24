@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="media/2023-december-trail-run.png" width="350px" align="right">
 
-Hi! I’m Felipe Silva, a 20-year-old Electrical Engineering student at USP. When I’m not immersed in solving technical challenges, you’ll likely find me running—whether it’s a 5k race or preparing myself for an ultramarathon.
+Hi! I’m Felipe Silva, a 20-year-old Electrical Engineering student at USP. When I’m not immersed in solving technical challenges, you’ll likely find me running — whether it’s a 5k race or preparing myself for an ultramarathon.
 
 I’m also a productivity enthusiast and an avid user of Obsidian, always exploring new ways to organize knowledge and enhance creativity.
 
