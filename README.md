@@ -44,7 +44,7 @@ I’m also a productivity enthusiast and an avid user of Obsidian, always explor
 
 ## 🎓 Communities 
 
-- Atletismo em Evidência (community leader) | 2023 - until now
+- [Atletismo em Evidência](https://discord.gg/gCxzBP3b7a) (community leader) | 2023 - until now
 
 ## Connect with me
 
